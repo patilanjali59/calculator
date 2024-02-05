@@ -1,2 +1,2 @@
-# Anjali_Calculator
+# Calculator
 A basic calculator developed using HTML, CSS and JavaScript
